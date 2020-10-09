@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **banji220/banji220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![banji_Banner](https://user-images.githubusercontent.com/22542558/95574281-90948c00-0a39-11eb-8d79-9ba9af8422ee.png)
